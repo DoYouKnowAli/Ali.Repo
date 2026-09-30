@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Google Sans Flex";
+  src: url(../fonts/GoogleSansFlex.ttf) format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap");
