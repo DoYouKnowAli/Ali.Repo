@@ -110,7 +110,7 @@ body {
   cursor: pointer;
 
   background:
-    linear-gradient(#2a2a2a, #2a2a2a) padding-box,
+    linear-gradient(#333, #333) padding-box,
     conic-gradient(
         from var(--angle),
         #ff0000,
